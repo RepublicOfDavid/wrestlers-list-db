@@ -1,132 +1,130 @@
-{
-    "wrestlers": [
-        {   "id": 1,
-            "name": "Dusty Rhodes",
-            "finisher": "Bionic Elbow",
-            "info": "Though his WWF run paled in comparison to his legendary career in the NWA, Dusty still showcased why he was one of the most captivating wrestlers of all time. Decorated in polka dots, the ‘common man’, the ‘American Dream’ always gave top promos and had decent (if not mishandled) feuds with the Honky Tonk Man and Randy Savage.",
-            "imgURL": "https://raw.githubusercontent.com/RepublicOfDavid/wrestlers-list-db/master/img/001.jpg"
-        },
-        { 
-            "id": 2,
-            "name": "Andre the Giant",
-            "finisher": "Bodyslam",
-            "info": "A true spectacle of a man, standing over 7 feet tall and weighing around 550 pounds, Andre holds a reputation as being the greatest ‘big man’ in wrestling. Andre’s defining moment came during his legendary feud with Hulk Hogan, and its culmination at Wrestlemania III; which contributed to the event’s massive attendance. Hogan body slammed the giant to produce one of the most memorable moments in WWF/E history.",
-            "imgURL": "https://raw.githubusercontent.com/RepublicOfDavid/wrestlers-list-db/master/img/002.jpg"
-        },
-        {
-            "id": 3,
-            "name": "'The Million Dollar Man' Ted Dibiase",
-            "finisher": "The Million Dollar Dreams",
-            "info": "‘The Million Dollar Man’ is regarded as one of the best wrestlers to have never held the world title. His tremendous in-ring talent was only overshadowed by his memorable character. Proclaiming ‘Everybody has a price’, Dibiase established his villainous character by paying random fans to perform humiliating tasks for him, and trying to buy the WWF title. When that failed, Dibiase created his own Million Dollar championship. Another example of an entertaining character who put on quality matches.",
-            "imgURL": "https://raw.githubusercontent.com/RepublicOfDavid/wrestlers-list-db/master/img/003.jpg"
-        },
-        {   "id": 4,
-            "name": "Jake 'The Snake' Roberts",
-            "finisher": "DDT",
-            "info": "A silver-tongued devil, Jake Roberts was one of the best talkers in wrestling, delivering chilling promos in a calm, pernicious manner. But it wasn’t just Roberts’ talking that defined him, he was a master of psychology; building his matches around his DDT finisher, probably the most popular move of the era.",
-            "imgURL": "https://raw.githubusercontent.com/RepublicOfDavid/wrestlers-list-db/master/img/004.jpg"
-        },
-        {   "id": 5,
-            "name": "Mr. Perfect",
-            "finisher": "The Perfect Plex",
-            "info": "A solid worker who put on entertaining matches with his technical ability and his bombastic selling, Mr. Perfect was as close to perfect as a wrestler could get. His detestable character of the man who did everything in life perfectly was showcased brilliantly in numerous sporting vignettes that also showcased his charisma. Perfect was a 2 time Intercontinental champion, eventually losing it in a great match against Bret Hart at SummerSlam 1991.",
-            "imgURL": "https://raw.githubusercontent.com/RepublicOfDavid/wrestlers-list-db/master/img/005.jpg"
-        },
-        {   "id": 6,
-            "name": "'Rowdy' Roddy Piper",
-            "finisher": "The Sleeper Hold",
-            "info": "'Do you think they would have loved you so much if they hadn’t hated me?' A statement made by Roddy Piper towards Hulk Hogan, and it’s hard to argue with. Every good hero needs a good villain, and Piper was the ultimate villain of the early years of the golden age. His feud against Hulk Hogan is what helped make the first Wrestlemania as big as it was; launching WWF into the golden era.",
-            "imgURL": "https://raw.githubusercontent.com/RepublicOfDavid/wrestlers-list-db/master/img/006.jpg"
-        },
-        {   "id": 7,
-            "name": "Hulk Hogan",
-            "finisher": "Leg Drop",
-            "info": "Simply put; there is no golden era without Hulk Hogan. The WWF’s top star throughout the era, his superstardom helped carry them into the mainstream. There are too many memorable feuds/highlights involving the Hulkster to recap in this paragraph. His impact on the golden era, and pro wrestling as a whole cannot be overstated.",
-            "imgURL": "https://raw.githubusercontent.com/RepublicOfDavid/wrestlers-list-db/master/img/007.jpg"
-        },
-        {   "id": 8,
-            "name": "'Macho Man' Randy Savage",
-            "finisher": "Elbow Drop",
-            "info": "Great in the ring; with show stealing matches against Ricky Steamboat, Ultimate Warrior, and Ric Flair at Wrestlemania’s III, VII, and VIII. Great on the mic; delivering captivating, entertaining promos to make him the best talker of the golden era. And many memorable moments; his Intercontinental title reigh/feud with Steamboat, his WWF title victory and the amazing Mega Powers storyline with Hulk Hogan, and his reunion/marriage to Miss Elizabeth.",
-            "imgURL": "https://raw.githubusercontent.com/RepublicOfDavid/wrestlers-list-db/master/img/008.jpg"
-        },
-        {   "id": 9,
-            "name": "The Ultimate Warrior",
-            "finisher": "Gorilla Press",
-            "info": "What the Warrior lacked in technical ability, he more than made up for in energy and character. The face-painted, muscle-bound, larger-than-life persona captured the imagination of the fans; resulting in his popularity and rise to stardom. His 27 second Intercontinental title victory over the Honky Tonk Man at SummerSlam 1988 was only surpassed when he defeated Hulk Hogan in ‘the Ultimate Challenge’ at Wrestlemania VI to win the WWF title.",
-            "imgURL": "https://raw.githubusercontent.com/RepublicOfDavid/wrestlers-list-db/master/img/009.jpg"
-        },
-        {   "id": 10,
-            "name": "Bret 'The Hitman' Hart",
-            "finisher": "The Sharpshooter",
-            "info": "Kick-starting his WWF career as one half of the Hart Foundation with Jim Neidhart; possibly the best team of the golden era, ‘the Hitman’ showed early signs of greatness with his crisp technical ability which earned him the moniker ‘the excellence of execution’. Hart’s singles career saw him rack up 2 intercontinental titles runs in classic matches against Mr. Perfect, Roddy Piper, and the British Bulldog. The end of the era in 1992 saw Hart win the WWF title from Ric Flair, ushering in his prominence in the era to come.",
-            "imgURL": "https://raw.githubusercontent.com/RepublicOfDavid/wrestlers-list-db/master/img/010.jpg"
-        },
-        {   "id": 11,
-            "name": "Ricky 'The Dragon' Steamboat",
-            "finisher": "Crossbody",
-            "info": "One of the best workers in the history of the industry, ‘the Dragon’ had the ability to put on entertaining matches with wrestlers of any calibre. Steamboat’s career highlight came in his feud against Randy Savage, in which he captured the intercontinental title at Wrestlemania III in one of the greatest Wrestlemania matches of all time.",
-            "imgURL": "https://raw.githubusercontent.com/RepublicOfDavid/wrestlers-list-db/master/img/011.jpg"
-        },
-        {   "id": 12,
-            "name": "'The Nature Boy' Ric Flair",
-            "finisher": "Figure 4 Leg Lock",
-            "info": "With his first WWF run only lasting a year and a half, you may wonder why Flair is placed so high on the list. But Flair owned it, with incredible promos and great matches. It wasn’t long after his debut that Flair gave the greatest Royal Rumble performance in history, lasting over 60 minutes to win the vacant WWF title in 1992, later stealing the show at Wrestlemania VIII against Randy Savage.",
-            "imgURL": "https://raw.githubusercontent.com/RepublicOfDavid/wrestlers-list-db/master/img/012.jpg"
-        },
-        {   "id": 13,
-            "name": "'Ravishing' Rick Rude",
-            "finisher": "The Rude Awakening",
-            "info": "A mixture of a god-like physique, charisma, and solid in-ring skills established Rude as a major player of the era. A notable part of his character was his pre-match ritual of kissing a random woman in the crowd, and then ceremonially disrobing to showcase his physique. Rude feuded with the Ultimate Warrior in 1989, showcasing his ability by carrying the greener Warrior, and captured the Intercontinental title from him at Wrestlemania V.",
-            "imgURL": "https://raw.githubusercontent.com/RepublicOfDavid/wrestlers-list-db/master/img/013.jpg"
-        },
-        {   "id": 14,
-            "name": "The Undertaker",
-            "finisher": "The Tombstone",
-            "info": "Debuting at the 1990 Survivor Series at the age of 25, young Mark Callaway made an immediate impact as the character that would define him for the next 25 years. He played the role of the undead wrestler impervious to pain to perfection, while others would’ve faltered. Even in his early years ‘taker feuded with big stars such as the Ultimate Warrior, Jake Roberts, and even won the WWF title from Hulk Hogan for 6 days. Even in his early years, the Dead man showed glimmers of greatness that would carry on into a legendary career.",
-            "imgURL": "https://raw.githubusercontent.com/RepublicOfDavid/wrestlers-list-db/master/img/014.jpg"
-        },
-        {   "id": 15,
-            "name": "'The Model' Rick Martel",
-            "finisher": "Boston Crab",
-            "info": "Martel is one of the most underrated wrestlers of his era; talented in the ring and charismatic on the mic, it seems a shame that he never broke into the top tier of the main event. Starting off as a tag team champion with Tito Santana in Strike Force, Martel turned heel and became ‘the Model’; an entertaining narcissist who’s shill his cologne: ‘Arrogance’ in brilliantly camp vignettes.",
-            "imgURL": "https://raw.githubusercontent.com/RepublicOfDavid/wrestlers-list-db/master/img/015.jpg"
-        },
-        {   "id": 16,
-            "name": "Brutus 'The Barber' Beefcake",
-            "finisher": "Back Suplex",
-            "info": "Despite limited ability, and a career predicated on being Hulk Hogan’s mate, ‘Brother Bruti’ still played a prominent role in the golden era. Initially a heel male stripper who held the tag titles with Greg Valentine in the Dream Team, Beefcake later took on the Barber gimmick and became a fan favourite; with a notable highlight being teaming with friend Hulk Hogan at SummerSlam 1989 against Randy Savage and Hogan’s ‘No Holds Barred’ co-star Zeus.",
-            "imgURL": "https://raw.githubusercontent.com/RepublicOfDavid/wrestlers-list-db/master/img/016.jpg"
-        },
-        {
-            "id": 17,
-            "name": "The Big Boss Man",
-            "finisher": "Uppercut",
-            "info": "The former prison guard from Cobb County, Georgia burst onto the scene in WWF in the late 80’s, feuding with main-eventers Hulk Hogan and Randy Savage. Brandishing his nightstick, he promised to deliver ‘Hard Times’ to his opponents. Boss Man was a larger than life character who embodied the cartoonish nature of the golden era, whilst also being a serious worker.",
-            "imgURL": "https://raw.githubusercontent.com/RepublicOfDavid/wrestlers-list-db/master/img/017.jpg"
-        },
-        {
-             "id": 18,
-            "name": "Earthquake",
-            "finisher": "Splash",
-            "info": "Deceptively agile for a man who was 6ft 7 and 468 pounds, Earthquake was an underrated big man of his era. He feuded with big names such as Hulk Hogan and Jake Roberts, with the peak of his career being a match against Hogan at SummerSlam 1990. Earthquake went on to form the Natural Disasters with Typhoon, and captured the tag team titles.",
-            "imgURL": "https://raw.githubusercontent.com/RepublicOfDavid/wrestlers-list-db/master/img/018.jpg"
-        },
-        {
-             "id": 19,
-            "name": "The Iron Sheik",
-            "finisher": "Camel Clutch",
-            "info": "During a decade when tensions between the US and Iran were at a boiling point, the Iron Sheik was a perfect foreign heel. Angering fans with his catchphrase ‘Iran number one! USA? *Spits’. He holds a special place in history for losing the WWF title to Hulk Hogan in 1984, kick-starting the Hulkamania movement. Also notable was his capturing of the tag team titles at the first Wrestlemania with Nikolai Volkov.",
-            "imgURL": "https://raw.githubusercontent.com/RepublicOfDavid/wrestlers-list-db/master/img/019.jpg"
-        },
-        {
-             "id": 20,
-            "name": "'Hackshaw' Jim Duggan",
-            "finisher": "Three Point Stance Tackle",
-            "info": "Duggan has always been a strange case. A perennial inhabitant of the undercard, he was nevertheless loved by fans due to his tongue-in-cheek patriot gimmick. The highlight of his career is having the distinction of winning the first ever Royal Rumble match in 1988. Duggan continued to be a part of the WWF/E up until the 2000’s.",
-            "imgURL": "https://raw.githubusercontent.com/RepublicOfDavid/wrestlers-list-db/master/img/020.jpg"
-        }
-    ]
-}
+[
+    {   "id": 1,
+        "name": "Dusty Rhodes",
+        "finisher": "Bionic Elbow",
+        "info": "Though his WWF run paled in comparison to his legendary career in the NWA, Dusty still showcased why he was one of the most captivating wrestlers of all time. Decorated in polka dots, the ‘common man’, the ‘American Dream’ always gave top promos and had decent (if not mishandled) feuds with the Honky Tonk Man and Randy Savage.",
+        "imgURL": "https://raw.githubusercontent.com/RepublicOfDavid/wrestlers-list-db/master/img/001.jpg"
+    },
+    { 
+        "id": 2,
+        "name": "Andre the Giant",
+        "finisher": "Bodyslam",
+        "info": "A true spectacle of a man, standing over 7 feet tall and weighing around 550 pounds, Andre holds a reputation as being the greatest ‘big man’ in wrestling. Andre’s defining moment came during his legendary feud with Hulk Hogan, and its culmination at Wrestlemania III; which contributed to the event’s massive attendance. Hogan body slammed the giant to produce one of the most memorable moments in WWF/E history.",
+        "imgURL": "https://raw.githubusercontent.com/RepublicOfDavid/wrestlers-list-db/master/img/002.jpg"
+    },
+    {
+        "id": 3,
+        "name": "'The Million Dollar Man' Ted Dibiase",
+        "finisher": "The Million Dollar Dreams",
+        "info": "‘The Million Dollar Man’ is regarded as one of the best wrestlers to have never held the world title. His tremendous in-ring talent was only overshadowed by his memorable character. Proclaiming ‘Everybody has a price’, Dibiase established his villainous character by paying random fans to perform humiliating tasks for him, and trying to buy the WWF title. When that failed, Dibiase created his own Million Dollar championship. Another example of an entertaining character who put on quality matches.",
+        "imgURL": "https://raw.githubusercontent.com/RepublicOfDavid/wrestlers-list-db/master/img/003.jpg"
+    },
+    {   "id": 4,
+        "name": "Jake 'The Snake' Roberts",
+        "finisher": "DDT",
+        "info": "A silver-tongued devil, Jake Roberts was one of the best talkers in wrestling, delivering chilling promos in a calm, pernicious manner. But it wasn’t just Roberts’ talking that defined him, he was a master of psychology; building his matches around his DDT finisher, probably the most popular move of the era.",
+        "imgURL": "https://raw.githubusercontent.com/RepublicOfDavid/wrestlers-list-db/master/img/004.jpg"
+    },
+    {   "id": 5,
+        "name": "Mr. Perfect",
+        "finisher": "The Perfect Plex",
+        "info": "A solid worker who put on entertaining matches with his technical ability and his bombastic selling, Mr. Perfect was as close to perfect as a wrestler could get. His detestable character of the man who did everything in life perfectly was showcased brilliantly in numerous sporting vignettes that also showcased his charisma. Perfect was a 2 time Intercontinental champion, eventually losing it in a great match against Bret Hart at SummerSlam 1991.",
+        "imgURL": "https://raw.githubusercontent.com/RepublicOfDavid/wrestlers-list-db/master/img/005.jpg"
+    },
+    {   "id": 6,
+        "name": "'Rowdy' Roddy Piper",
+        "finisher": "The Sleeper Hold",
+        "info": "'Do you think they would have loved you so much if they hadn’t hated me?' A statement made by Roddy Piper towards Hulk Hogan, and it’s hard to argue with. Every good hero needs a good villain, and Piper was the ultimate villain of the early years of the golden age. His feud against Hulk Hogan is what helped make the first Wrestlemania as big as it was; launching WWF into the golden era.",
+        "imgURL": "https://raw.githubusercontent.com/RepublicOfDavid/wrestlers-list-db/master/img/006.jpg"
+    },
+    {   "id": 7,
+        "name": "Hulk Hogan",
+        "finisher": "Leg Drop",
+        "info": "Simply put; there is no golden era without Hulk Hogan. The WWF’s top star throughout the era, his superstardom helped carry them into the mainstream. There are too many memorable feuds/highlights involving the Hulkster to recap in this paragraph. His impact on the golden era, and pro wrestling as a whole cannot be overstated.",
+        "imgURL": "https://raw.githubusercontent.com/RepublicOfDavid/wrestlers-list-db/master/img/007.jpg"
+    },
+    {   "id": 8,
+        "name": "'Macho Man' Randy Savage",
+        "finisher": "Elbow Drop",
+        "info": "Great in the ring; with show stealing matches against Ricky Steamboat, Ultimate Warrior, and Ric Flair at Wrestlemania’s III, VII, and VIII. Great on the mic; delivering captivating, entertaining promos to make him the best talker of the golden era. And many memorable moments; his Intercontinental title reigh/feud with Steamboat, his WWF title victory and the amazing Mega Powers storyline with Hulk Hogan, and his reunion/marriage to Miss Elizabeth.",
+        "imgURL": "https://raw.githubusercontent.com/RepublicOfDavid/wrestlers-list-db/master/img/008.jpg"
+    },
+    {   "id": 9,
+        "name": "The Ultimate Warrior",
+        "finisher": "Gorilla Press",
+        "info": "What the Warrior lacked in technical ability, he more than made up for in energy and character. The face-painted, muscle-bound, larger-than-life persona captured the imagination of the fans; resulting in his popularity and rise to stardom. His 27 second Intercontinental title victory over the Honky Tonk Man at SummerSlam 1988 was only surpassed when he defeated Hulk Hogan in ‘the Ultimate Challenge’ at Wrestlemania VI to win the WWF title.",
+        "imgURL": "https://raw.githubusercontent.com/RepublicOfDavid/wrestlers-list-db/master/img/009.jpg"
+    },
+    {   "id": 10,
+        "name": "Bret 'The Hitman' Hart",
+        "finisher": "The Sharpshooter",
+        "info": "Kick-starting his WWF career as one half of the Hart Foundation with Jim Neidhart; possibly the best team of the golden era, ‘the Hitman’ showed early signs of greatness with his crisp technical ability which earned him the moniker ‘the excellence of execution’. Hart’s singles career saw him rack up 2 intercontinental titles runs in classic matches against Mr. Perfect, Roddy Piper, and the British Bulldog. The end of the era in 1992 saw Hart win the WWF title from Ric Flair, ushering in his prominence in the era to come.",
+        "imgURL": "https://raw.githubusercontent.com/RepublicOfDavid/wrestlers-list-db/master/img/010.jpg"
+    },
+    {   "id": 11,
+        "name": "Ricky 'The Dragon' Steamboat",
+        "finisher": "Crossbody",
+        "info": "One of the best workers in the history of the industry, ‘the Dragon’ had the ability to put on entertaining matches with wrestlers of any calibre. Steamboat’s career highlight came in his feud against Randy Savage, in which he captured the intercontinental title at Wrestlemania III in one of the greatest Wrestlemania matches of all time.",
+        "imgURL": "https://raw.githubusercontent.com/RepublicOfDavid/wrestlers-list-db/master/img/011.jpg"
+    },
+    {   "id": 12,
+        "name": "'The Nature Boy' Ric Flair",
+        "finisher": "Figure 4 Leg Lock",
+        "info": "With his first WWF run only lasting a year and a half, you may wonder why Flair is placed so high on the list. But Flair owned it, with incredible promos and great matches. It wasn’t long after his debut that Flair gave the greatest Royal Rumble performance in history, lasting over 60 minutes to win the vacant WWF title in 1992, later stealing the show at Wrestlemania VIII against Randy Savage.",
+        "imgURL": "https://raw.githubusercontent.com/RepublicOfDavid/wrestlers-list-db/master/img/012.jpg"
+    },
+    {   "id": 13,
+        "name": "'Ravishing' Rick Rude",
+        "finisher": "The Rude Awakening",
+        "info": "A mixture of a god-like physique, charisma, and solid in-ring skills established Rude as a major player of the era. A notable part of his character was his pre-match ritual of kissing a random woman in the crowd, and then ceremonially disrobing to showcase his physique. Rude feuded with the Ultimate Warrior in 1989, showcasing his ability by carrying the greener Warrior, and captured the Intercontinental title from him at Wrestlemania V.",
+        "imgURL": "https://raw.githubusercontent.com/RepublicOfDavid/wrestlers-list-db/master/img/013.jpg"
+    },
+    {   "id": 14,
+        "name": "The Undertaker",
+        "finisher": "The Tombstone",
+        "info": "Debuting at the 1990 Survivor Series at the age of 25, young Mark Callaway made an immediate impact as the character that would define him for the next 25 years. He played the role of the undead wrestler impervious to pain to perfection, while others would’ve faltered. Even in his early years ‘taker feuded with big stars such as the Ultimate Warrior, Jake Roberts, and even won the WWF title from Hulk Hogan for 6 days. Even in his early years, the Dead man showed glimmers of greatness that would carry on into a legendary career.",
+        "imgURL": "https://raw.githubusercontent.com/RepublicOfDavid/wrestlers-list-db/master/img/014.jpg"
+    },
+    {   "id": 15,
+        "name": "'The Model' Rick Martel",
+        "finisher": "Boston Crab",
+        "info": "Martel is one of the most underrated wrestlers of his era; talented in the ring and charismatic on the mic, it seems a shame that he never broke into the top tier of the main event. Starting off as a tag team champion with Tito Santana in Strike Force, Martel turned heel and became ‘the Model’; an entertaining narcissist who’s shill his cologne: ‘Arrogance’ in brilliantly camp vignettes.",
+        "imgURL": "https://raw.githubusercontent.com/RepublicOfDavid/wrestlers-list-db/master/img/015.jpg"
+    },
+    {   "id": 16,
+        "name": "Brutus 'The Barber' Beefcake",
+        "finisher": "Back Suplex",
+        "info": "Despite limited ability, and a career predicated on being Hulk Hogan’s mate, ‘Brother Bruti’ still played a prominent role in the golden era. Initially a heel male stripper who held the tag titles with Greg Valentine in the Dream Team, Beefcake later took on the Barber gimmick and became a fan favourite; with a notable highlight being teaming with friend Hulk Hogan at SummerSlam 1989 against Randy Savage and Hogan’s ‘No Holds Barred’ co-star Zeus.",
+        "imgURL": "https://raw.githubusercontent.com/RepublicOfDavid/wrestlers-list-db/master/img/016.jpg"
+    },
+    {
+        "id": 17,
+        "name": "The Big Boss Man",
+        "finisher": "Uppercut",
+        "info": "The former prison guard from Cobb County, Georgia burst onto the scene in WWF in the late 80’s, feuding with main-eventers Hulk Hogan and Randy Savage. Brandishing his nightstick, he promised to deliver ‘Hard Times’ to his opponents. Boss Man was a larger than life character who embodied the cartoonish nature of the golden era, whilst also being a serious worker.",
+        "imgURL": "https://raw.githubusercontent.com/RepublicOfDavid/wrestlers-list-db/master/img/017.jpg"
+    },
+    {
+            "id": 18,
+        "name": "Earthquake",
+        "finisher": "Splash",
+        "info": "Deceptively agile for a man who was 6ft 7 and 468 pounds, Earthquake was an underrated big man of his era. He feuded with big names such as Hulk Hogan and Jake Roberts, with the peak of his career being a match against Hogan at SummerSlam 1990. Earthquake went on to form the Natural Disasters with Typhoon, and captured the tag team titles.",
+        "imgURL": "https://raw.githubusercontent.com/RepublicOfDavid/wrestlers-list-db/master/img/018.jpg"
+    },
+    {
+            "id": 19,
+        "name": "The Iron Sheik",
+        "finisher": "Camel Clutch",
+        "info": "During a decade when tensions between the US and Iran were at a boiling point, the Iron Sheik was a perfect foreign heel. Angering fans with his catchphrase ‘Iran number one! USA? *Spits’. He holds a special place in history for losing the WWF title to Hulk Hogan in 1984, kick-starting the Hulkamania movement. Also notable was his capturing of the tag team titles at the first Wrestlemania with Nikolai Volkov.",
+        "imgURL": "https://raw.githubusercontent.com/RepublicOfDavid/wrestlers-list-db/master/img/019.jpg"
+    },
+    {
+            "id": 20,
+        "name": "'Hackshaw' Jim Duggan",
+        "finisher": "Three Point Stance Tackle",
+        "info": "Duggan has always been a strange case. A perennial inhabitant of the undercard, he was nevertheless loved by fans due to his tongue-in-cheek patriot gimmick. The highlight of his career is having the distinction of winning the first ever Royal Rumble match in 1988. Duggan continued to be a part of the WWF/E up until the 2000’s.",
+        "imgURL": "https://raw.githubusercontent.com/RepublicOfDavid/wrestlers-list-db/master/img/020.jpg"
+    }
+]
 
 
